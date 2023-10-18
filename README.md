@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bkhotsyphom
+- 👋 Hi, I’m @bkhot
 - 👀 I’m interested in ...learning Python and creating games/web applications
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
